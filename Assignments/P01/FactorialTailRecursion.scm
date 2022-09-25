@@ -1,5 +1,3 @@
-; Tina Johnson
-; CMPS 5113
 ; This program will be passed a positive integer, n, and
 ; will return n! One function will use recursion and 
 ; a second function will use tail recursion.
@@ -26,8 +24,6 @@
       (facTail (- n 1)(* n tot))))
 
 
-(print "Tina Johnson")
-(print "CMPS 5113")
 (print "This program will print n!  Enter n: ")
 (define n (read))
 (display n)
