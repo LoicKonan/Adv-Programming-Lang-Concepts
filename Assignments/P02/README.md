@@ -1,17 +1,31 @@
-## Assignment 2 -
+## Assignment 2 - Logic
 
 ### Loic Konan
 
 #### Description
 
--
+- write a **Prolog program** to determine **family relationships**.
+- **Facts:**
+  
+  - Write 10-20 facts in each category.
+  - Make up names or use people that you know.
+  - male or female /1 Ex. female(tina). Tina is a female
+  - parent /2 Ex. parent(tina, kerri). Tina is the parent of Kerri
+
+- **Rules:**
+  
+  - Write rules for the following.
+  - child(A, B)
+  - grandparent(A, B)
+  - brother(A, B)
+  - sister(A, B)
 
 ### Files
 
-|   #   | File                         | Description                                |
-| :---: | ---------------------------- | ------------------------------------------ |
-|   1   | [main.pl](main.pl)         | The main cpp with comments and description |
-                                |
+|   #   | File               | Description                                |
+| :---: | ------------------ | ------------------------------------------ |
+|   1   | [main.pl](main.pl) | The main cpp with comments and description |
+|       |
 
 ### Instructions
 
