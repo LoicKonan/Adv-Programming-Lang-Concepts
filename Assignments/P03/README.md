@@ -1,6 +1,6 @@
 ## P03 - Cipher GUI
 
-### Loic Konan
+### Loic Kona
 
 #### Description
 
@@ -22,7 +22,7 @@
 
 |   #   | File                   | Description                                                     |
 | :---: | ---------------------- | --------------------------------------------------------------- |
-|   1   | Cipher GUI             | Run the Cipher GUI                                              |
+|   1   | [CipherGUI](./CipherGUI) | The main cpp with comments and description              |
 
 ### Instructions
 
