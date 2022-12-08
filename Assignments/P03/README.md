@@ -20,9 +20,9 @@
 
 ### Files
 
-|   #   | File                   | Description                                                     |
-| :---: | ---------------------- | --------------------------------------------------------------- |
-|   1   | [CipherGUI](./CipherGUI) | The main cpp with comments and description              |
+|   #   | File                     | Description     |
+| :---: | ------------------------ | --------------- |
+|   1   | [CipherGUI](./CipherGUI) | The main Folder |
 
 ### Instructions
 
