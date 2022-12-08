@@ -1,0 +1,18 @@
+C:\Users\byron\source\repos\Cipher GUI\Cipher GUI\obj\Debug\net6.0-windows\Cipher GUI.csproj.AssemblyReference.cache
+C:\Users\byron\source\repos\Cipher GUI\Cipher GUI\obj\Debug\net6.0-windows\Cipher_GUI.Properties.Resources.resources
+C:\Users\byron\source\repos\Cipher GUI\Cipher GUI\obj\Debug\net6.0-windows\Cipher GUI.csproj.GenerateResource.cache
+C:\Users\byron\source\repos\Cipher GUI\Cipher GUI\obj\Debug\net6.0-windows\Cipher GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\byron\source\repos\Cipher GUI\Cipher GUI\obj\Debug\net6.0-windows\Cipher GUI.AssemblyInfoInputs.cache
+C:\Users\byron\source\repos\Cipher GUI\Cipher GUI\obj\Debug\net6.0-windows\Cipher GUI.AssemblyInfo.cs
+C:\Users\byron\source\repos\Cipher GUI\Cipher GUI\obj\Debug\net6.0-windows\Cipher GUI.csproj.CoreCompileInputs.cache
+C:\Users\byron\source\repos\Cipher GUI\Cipher GUI\bin\Debug\net6.0-windows\Cipher GUI.exe
+C:\Users\byron\source\repos\Cipher GUI\Cipher GUI\bin\Debug\net6.0-windows\Cipher GUI.deps.json
+C:\Users\byron\source\repos\Cipher GUI\Cipher GUI\bin\Debug\net6.0-windows\Cipher GUI.runtimeconfig.json
+C:\Users\byron\source\repos\Cipher GUI\Cipher GUI\bin\Debug\net6.0-windows\Cipher GUI.dll
+C:\Users\byron\source\repos\Cipher GUI\Cipher GUI\bin\Debug\net6.0-windows\Cipher GUI.pdb
+C:\Users\byron\source\repos\Cipher GUI\Cipher GUI\obj\Debug\net6.0-windows\Cipher_GUI.Form1.resources
+C:\Users\byron\source\repos\Cipher GUI\Cipher GUI\obj\Debug\net6.0-windows\Cipher GUI.dll
+C:\Users\byron\source\repos\Cipher GUI\Cipher GUI\obj\Debug\net6.0-windows\refint\Cipher GUI.dll
+C:\Users\byron\source\repos\Cipher GUI\Cipher GUI\obj\Debug\net6.0-windows\Cipher GUI.pdb
+C:\Users\byron\source\repos\Cipher GUI\Cipher GUI\obj\Debug\net6.0-windows\Cipher GUI.genruntimeconfig.cache
+C:\Users\byron\source\repos\Cipher GUI\Cipher GUI\obj\Debug\net6.0-windows\ref\Cipher GUI.dll

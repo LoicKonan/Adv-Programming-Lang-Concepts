@@ -124,11 +124,11 @@ child(A, B) :- parent(B, A). % Rule for child
 
 
 brother(ethan, deangelo).   % Family D
-brother(A,B) :- parent(C, A), parent(C, B). % Rule for brother
+brother(A,B) :- parent(C, A), parent(C, B), not(A = B). % Rule for brother
 
 
 sister(olivia, katy).       % Family D
-sister(A,B) :- parent(C, A), parent(C, B). % Rule for sister
+sister(A,B) :- parent(C, A), parent(C, B), not(A = B). % Rule for sister
 
 
 cousin(lillian, richard).  % Family E
